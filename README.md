@@ -4,12 +4,16 @@
 
 Currently studying at Polytech Paris-Saclay.
 
+---
+
+Here is a sample of languages, framework and tools I have learned over the years :
+
 ## Languages
 #### General-Purpose
 ![](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)![](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)![](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)![](https://img.shields.io/badge/ocaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
 
 #### Web Oriented
-![](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)![](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)![](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)![](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)![](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)![](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)![](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)![](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### Numerical Analysis
 ![](https://img.shields.io/badge/julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)![](https://img.shields.io/badge/matlab-0076a8?style=for-the-badge&logo=matlab&logoColor=white)![](https://img.shields.io/badge/scilab-092F4D?style=for-the-badge&logo=&logoColor=white)
@@ -19,10 +23,10 @@ Currently studying at Polytech Paris-Saclay.
 
 ## Frameworks
 #### Applications
-![](https://img.shields.io/badge/javafx-E76F00?style=for-the-badge&logo=&logoColor=white)![](https://img.shields.io/badge/grpc-40636a?style=for-the-badge&logo=&logoColor=white)![](https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)![](https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)![](https://img.shields.io/badge/camel-E97826?style=for-the-badge&logo=apache-camel&logoColor=white)![](https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=.NET&logoColor=white)
+![](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)![](https://img.shields.io/badge/javafx-E76F00?style=for-the-badge&logo=&logoColor=white)![](https://img.shields.io/badge/grpc-40636a?style=for-the-badge&logo=&logoColor=white)![](https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)![](https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)![](https://img.shields.io/badge/camel-E97826?style=for-the-badge&logo=apache-camel&logoColor=white)![](https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=.NET&logoColor=white)![](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 #### Web Applications
-![](https://img.shields.io/badge/symfony-black?style=for-the-badge&logo=symfony&logoColor=white)![](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)![](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)![](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/symfony-black?style=for-the-badge&logo=symfony&logoColor=white)![](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)![](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)![](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)![](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ## Tools
 #### Development Tools
